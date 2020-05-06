@@ -1,5 +1,5 @@
 name: "AWS SAM for Node.js apps"
-description: "Github action for building and deploying Node.js apps with aws sam"
+description: "Action for building and deploying aws sam templates with any version of Nodejs"
 author: "eactisgrosso <eactisgrosso@gmail.com>"
 branding:
   icon: "terminal"

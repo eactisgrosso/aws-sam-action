@@ -1,6 +1,6 @@
 # aws-sam-action
 
-Github action for building and deploying with aws sam
+Github Action for building and deploying aws sam templates with any version of Nodejs
 
 ## Example usage
 
